@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bird_whine.ogg-e6085374c2840dc68568e1c0e8bd1062.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Bird/Assets/Audio/bird_whine.ogg"
+dest_files=[ "res://.import/bird_whine.ogg-e6085374c2840dc68568e1c0e8bd1062.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

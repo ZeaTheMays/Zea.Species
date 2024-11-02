@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/goat_bark.ogg-da0a5a6a43c7ae53ff8528d4b2c08767.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Goat/Assets/Audio/goat_bark.ogg"
+dest_files=[ "res://.import/goat_bark.ogg-da0a5a6a43c7ae53ff8528d4b2c08767.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
