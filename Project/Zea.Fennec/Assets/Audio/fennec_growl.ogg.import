@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/fennec_growl.ogg-33c3c6b6ac70ddaa7a07f36e4c2ada5f.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Fennec/Assets/Audio/fennec_growl.ogg"
+dest_files=[ "res://.import/fennec_growl.ogg-33c3c6b6ac70ddaa7a07f36e4c2ada5f.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/fennec_bark.ogg-71216b04ae4b6fe84ba34ea0b9127974.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Fennec/Assets/Audio/fennec_bark.ogg"
+dest_files=[ "res://.import/fennec_bark.ogg-71216b04ae4b6fe84ba34ea0b9127974.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
