@@ -37,3 +37,5 @@ Home to all my species mods
 - Monkey
 - Pig
 - Shark
+- Skulldog
+- Rodents
