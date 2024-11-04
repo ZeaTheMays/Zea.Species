@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bear_bark.ogg-2144542bce283116f7da6d8b67c5ed03.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Bear/Assets/Audio/bear_bark.ogg"
+dest_files=[ "res://.import/bear_bark.ogg-2144542bce283116f7da6d8b67c5ed03.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

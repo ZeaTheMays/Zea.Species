@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/fox_growl.ogg-9c16f63ac3783d50c25568492949a804.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Fox/Assets/Audio/fox_growl.ogg"
+dest_files=[ "res://.import/fox_growl.ogg-9c16f63ac3783d50c25568492949a804.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

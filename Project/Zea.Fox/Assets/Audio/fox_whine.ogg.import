@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/fox_whine.ogg-5671d917eb88f5f9affee9909fa2ffad.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Fox/Assets/Audio/fox_whine.ogg"
+dest_files=[ "res://.import/fox_whine.ogg-5671d917eb88f5f9affee9909fa2ffad.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

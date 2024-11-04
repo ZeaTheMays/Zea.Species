@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bear_whine.ogg-a5013bab3938ee48663659e53cf8ccea.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Bear/Assets/Audio/bear_whine.ogg"
+dest_files=[ "res://.import/bear_whine.ogg-a5013bab3938ee48663659e53cf8ccea.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

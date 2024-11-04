@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/fox_bark.ogg-f240b835928fbbd224b4b91c04dd4b15.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Fox/Assets/Audio/fox_bark.ogg"
+dest_files=[ "res://.import/fox_bark.ogg-f240b835928fbbd224b4b91c04dd4b15.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
