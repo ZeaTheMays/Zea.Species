@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bat_whine.ogg-7f9621374c1da1b92ab606a239ec0f5f.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Bat/Assets/Audio/bat_whine.ogg"
+dest_files=[ "res://.import/bat_whine.ogg-7f9621374c1da1b92ab606a239ec0f5f.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

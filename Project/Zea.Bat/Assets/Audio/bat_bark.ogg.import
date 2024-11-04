@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bat_bark.ogg-cc0bb377f94fdef9480d1c5c2db34557.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Bat/Assets/Audio/bat_bark.ogg"
+dest_files=[ "res://.import/bat_bark.ogg-cc0bb377f94fdef9480d1c5c2db34557.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

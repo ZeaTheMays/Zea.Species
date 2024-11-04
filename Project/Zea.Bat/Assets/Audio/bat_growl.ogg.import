@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bat_growl.ogg-9ce3e3b509b01bf7fda57e2c74a7c378.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Bat/Assets/Audio/bat_growl.ogg"
+dest_files=[ "res://.import/bat_growl.ogg-9ce3e3b509b01bf7fda57e2c74a7c378.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/axolotl_whine.ogg-1d3623ecd4d6254d123cfb5104e40607.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Axolotl/Assets/Audio/axolotl_whine.ogg"
+dest_files=[ "res://.import/axolotl_whine.ogg-1d3623ecd4d6254d123cfb5104e40607.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

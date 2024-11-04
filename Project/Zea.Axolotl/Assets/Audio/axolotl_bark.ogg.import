@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/axolotl_bark.ogg-9a6ad6e8a61e2ad34f04e463a7b84359.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Axolotl/Assets/Audio/axolotl_bark.ogg"
+dest_files=[ "res://.import/axolotl_bark.ogg-9a6ad6e8a61e2ad34f04e463a7b84359.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
