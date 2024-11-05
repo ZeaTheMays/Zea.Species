@@ -38,3 +38,4 @@ Home to all my species mods
 - Pig
 - Shark
 - Leopard/Snow Leopard
+- Alpaca
