@@ -15,13 +15,13 @@ Home to all my species mods
 - [Capybara](https://thunderstore.io/c/webfishing/p/GnarlyGnoll/Capybara/)
 - [Otter](https://thunderstore.io/c/webfishing/p/Racush/Otters/)
 - [Deer](https://thunderstore.io/c/webfishing/p/GnarlyGnoll/Deer/)
+- Opposum
 
 ## To be Added
 - Gators: Alligator, Reptile, Snake
 - Sloth
 - Coyote
 - Owls
-- Opposum
 - Duck
 - Squirrel
 - Sheep
