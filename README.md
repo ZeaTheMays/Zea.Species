@@ -30,7 +30,8 @@ Home to all my species mods
 - Frog
 - Different Dog Races: Beagle Hound
 - Moose
-- cow
+- Cow
+- Hamster
 - Mustelid
 - Weasel
 - Skunk
