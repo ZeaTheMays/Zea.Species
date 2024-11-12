@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/growl.ogg-26000acba016a083a88ad9b970163d10.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Species/Species/Bird/Voice/growl.ogg"
+dest_files=[ "res://.import/growl.ogg-26000acba016a083a88ad9b970163d10.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

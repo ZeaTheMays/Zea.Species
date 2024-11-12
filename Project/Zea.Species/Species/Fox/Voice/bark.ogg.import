@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bark.ogg-8691c8afcaedf38a1f59fafd833d4417.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Species/Species/Fox/Voice/bark.ogg"
+dest_files=[ "res://.import/bark.ogg-8691c8afcaedf38a1f59fafd833d4417.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

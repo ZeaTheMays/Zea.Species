@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bark.ogg-fe124bce3aa567ffc101fbe6b0c15593.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Species/Species/Raccoon/Voice/bark.ogg"
+dest_files=[ "res://.import/bark.ogg-fe124bce3aa567ffc101fbe6b0c15593.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
