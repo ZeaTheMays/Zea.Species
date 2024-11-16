@@ -1,7 +1,7 @@
 # Zea.Species
 Home to all my species mods
 
-## Finished
+## Species Pack 1:
 - Axolotl
 - Fennec
 - Fox
@@ -10,16 +10,8 @@ Home to all my species mods
 - Goat
 - Raccoon
 - Bat
-   
-## Go look at other's species!
-- [Hyena](https://thunderstore.io/c/webfishing/p/DarnHyena/YeenBFishin/)
-- [Rabbit](https://thunderstore.io/c/webfishing/p/eng/rabbit/)
-- [Capybara](https://thunderstore.io/c/webfishing/p/GnarlyGnoll/Capybara/)
-- [Otter](https://thunderstore.io/c/webfishing/p/Racush/Otters/)
-- [Deer](https://thunderstore.io/c/webfishing/p/GnarlyGnoll/Deer/)
-- [Opposum](https://thunderstore.io/c/webfishing/p/2cute2game/Awesome_Possums/)
 
-## Species Pack 2 [WIP]:
+## Species Pack 2:
 - Reptiles
 - Sheep
 - Rat
@@ -28,6 +20,19 @@ Home to all my species mods
 - Pig
 - Shark
 - Leopard/Snow Leopard
+   
+## Extras:
+- Cube
+- Spider
+
+## Go look at other's species!
+- [Hyena](https://thunderstore.io/c/webfishing/p/DarnHyena/YeenBFishin/)
+- [Rabbit](https://thunderstore.io/c/webfishing/p/eng/rabbit/)
+- [Capybara](https://thunderstore.io/c/webfishing/p/GnarlyGnoll/Capybara/)
+- [Otter](https://thunderstore.io/c/webfishing/p/Racush/Otters/)
+- [Deer](https://thunderstore.io/c/webfishing/p/GnarlyGnoll/Deer/)
+- [Opposum](https://thunderstore.io/c/webfishing/p/2cute2game/Awesome_Possums/)
+
 
 ## Species Pack 3 [WIP]:
 - Owl
