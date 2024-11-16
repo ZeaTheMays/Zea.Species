@@ -33,18 +33,15 @@ Home to all my species mods
 - [Deer](https://thunderstore.io/c/webfishing/p/GnarlyGnoll/Deer/)
 - [Opposum](https://thunderstore.io/c/webfishing/p/2cute2game/Awesome_Possums/)
 
-Subsequent lists may change depending on request frequency
-## Species Pack 3 [WIP]:
+The following species may be added individually now that the mod has a lot of species:
 - Owl
 - Cow
-- Croc
+- Alligator
 - Hamster
 - Skunk
 - Alpaca
 - Moose
 - Rat
-
-## To be Added
 - Sloth
 - Squirrel
 - Coyote
